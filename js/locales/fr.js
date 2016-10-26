@@ -49,24 +49,24 @@
         msgImageResizeError: "Impossible d'obtenir les dimensions de l'image à redimensionner.",
         msgImageResizeException: "Erreur lors du redimensionnement de l'image.<pre>{errors}</pre>",
         dropZoneTitle: 'Glissez et déposez les fichiers ici&hellip;',
-        dropZoneClickTitle: '<br>(or click to select {files})',
+        dropZoneClickTitle: '<br>(ou cliquez ici)',
         fileActionSettings: {
             removeTitle: 'Supprimer le fichier',
             uploadTitle: 'Télécharger un fichier',
             zoomTitle: 'Voir les détails',
-            dragTitle: 'Move / Rearrange',
+            dragTitle: 'Déplacer / Ordonner',
             indicatorNewTitle: 'Pas encore téléchargé',
             indicatorSuccessTitle: 'Posté',
             indicatorErrorTitle: 'Ajouter erreur',
             indicatorLoadingTitle: 'ajout ...'
         },
         previewZoomButtonTitles: {
-            prev: 'View previous file',
-            next: 'View next file',
-            toggleheader: 'Toggle header',
-            fullscreen: 'Toggle full screen',
-            borderless: 'Toggle borderless mode',
-            close: 'Close detailed preview'
+            prev: 'Voir fichier précédent',
+            next: 'Voir fichier suivant',
+            toggleheader: 'Réduire l\'entête',
+            fullscreen: 'Plein écran',
+            borderless: 'Mode sans bord',
+            close: 'Fermer'
         }
     };
 })(window.jQuery);
